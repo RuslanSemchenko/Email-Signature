@@ -2,7 +2,8 @@
 
 Craft a professional, responsive, and universally compatible email signature in seconds. This web application provides a user-friendly interface to generate custom email signatures that work across all major email clients.
 
-![Email Signature Architect Preview](https://storage.googleapis.com/stabl-media/6f131191-49a7-44c1-a83f-67c4e511c529.png)
+<img width="1920" height="878" alt="{BDF4C71C-FE69-489C-8182-1593D12C8A48}" src="https://github.com/user-attachments/assets/a8325b65-58a8-4e70-b4b3-b966f6ef2d68" />
+
 
 ## Features
 
